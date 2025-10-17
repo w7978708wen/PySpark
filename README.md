@@ -1,6 +1,6 @@
 # PySpark
 
-I look forward to learn PySpark bit-by-bit habitually. 
+I look forward to learning PySpark bit-by-bit habitually. 
 
 I am excited about browsing through the documentations to learn how to use API in PySpark. 
 
